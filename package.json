@@ -1,7 +1,8 @@
 {
-  "name": "node_test",
+  "name": "node_playground",
+  "description": "Playing with node, gulp, express, etc.",
   "version": "0.1.0",
-  "description": "",
+  "repository": "https://github.com/ktalanda/NodePlayground",
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {
